@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome
+
+Website: https://andreamagni.eu
+
+Blog: https://blog.andreamagni.eu
 
 <!--
 **andrea-magni/andrea-magni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
